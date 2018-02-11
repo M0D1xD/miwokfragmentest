@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Miwok</string>
+    <string name="category_phrases">Frases</string>
+    <string name="category_colors">Colores</string>
+    <string name="category_numbers">Numbers</string>
+    <string name="category_family">familia</string>
+    <string name="number_one">Uno</string>
+    <string name="number_two">dos</string>
+    <string name="number_three">Tres</string>
+    <string name="number_four">cuatro</string>
+    <string name="number_five">cinco</string>
+    <string name="nmber_six">seis</string>
+    <string name="nmber_seven">siete</string>
+    <string name="nmber_eight">ocho</string>
+    <string name="nmber_nine">nueve</string>
+    <string name="nmber_ten">diez</string>
+    <string name="family_father">padre</string>
+    <string name="color_green">Verde</string>
+    <string name="color_red">Rojo</string>
+    <string name="color_black">Negro</string>
+    <string name="color_brown">Marrón</string>
+    <string name="color_grey">"Gris "</string>
+    <string name="color_white">Blanco</string>
+    <string name="color_mustard_yellow">"Mostaza amarilla "</string>
+    <string name="color_Dusty_yellow">amarillo polvoriento</string>
+    <string name="family_grandmother">Gran Madre</string>
+    <string name="phrase_where_are_you_going">A dónde vas?</string>
+    <string name="phrase_yes_i_am_coming">Si, voy para allá.</string>
+    <string name="phrase_are_you_coming">Vienes?</string>
+    <string name="phrase_i_am_feeling_good">Me siento bien.</string>
+    <string name="phrase_how_are_you_feeling">Como te sientes?</string>
+    <string name="phrase_my_name_is">Me llamo</string>
+    <string name="phrases_Lets_go">Vamonos.</string>
+    <string name="phrases_I_m_coming">Ya voy</string>
+    <string name="phrases_come_here">Ven aca.</string>
+    <string name="family_oldbrother">Hermano mayor</string>
+    <string name="family_oldersister">Hermana mayor</string>
+    <string name="family_YoungSister">Hermana menor</string>
+    <string name="family_YoungBrother">Hermano más joven</string>
+    <string name="family_daughter">Hija</string>
+    <string name="family_sister">Hermana</string>
+    <string name="family_son">Hijo</string>
+    <string name="family_grandfather">Abuelo</string>
+    <string name="family_mother">"Мать "</string>
+    <string name="phrase_whats_your_name">como Teams</string>
+</resources>

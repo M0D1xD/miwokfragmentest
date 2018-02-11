@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Miwok</string>
+
+    <string name="number_one">One</string>
+    <string name="number_two">Two</string>
+    <string name="number_three">Three</string>
+    <string name="number_four">Four</string>
+    <string name="category_numbers">Numbers</string>
+    <string name="category_family">Family Members</string>
+    <string name="category_phrases">Phrases</string>
+    <string name="number_five">Five</string>
+    <string name="nmber_six">Six</string>
+    <string name="nmber_seven">Seven</string>
+    <string name="nmber_eight">Eight</string>
+    <string name="nmber_nine">Nine</string>
+    <string name="nmber_ten">Ten</string>
+    <string name="family_father">Father</string>
+    <string name="family_mother">Mother</string>
+    <string name="family_grandmother">Grand Mother</string>
+    <string name="family_grandfather">GrandFather</string>
+    <string name="family_son">Son</string>
+    <string name="family_sister">Sister</string>
+    <string name="family_daughter">Daughter</string>
+    <string name="family_YoungBrother">Younger Brother</string>
+    <string name="family_YoungSister">Younger Sister</string>
+    <string name="family_oldersister">Older Sister</string>
+    <string name="family_oldbrother">Older Brother</string>
+    <string name="phrases_come_here">Come here.</string>
+    <string name="phrases_Lets_go">Let’s go.</string>
+    <string name="phrases_I_m_coming">I’m coming.</string>
+    <string name="phrase_whats_your_name">What is your name?</string>
+    <string name="phrase_my_name_is">My name is...</string>
+    <string name="phrase_how_are_you_feeling">How are you feeling?</string>
+    <string name="phrase_i_am_feeling_good">I’m feeling good.</string>
+    <string name="phrase_are_you_coming">Are you coming?</string>
+    <string name="phrase_yes_i_am_coming">Yes, I’m coming.</string>
+    <string name="phrase_where_are_you_going">Where are you going?</string>
+    <string name="color_red">Red</string>
+    <string name="color_green">Green</string>
+    <string name="color_black">Black</string>
+    <string name="color_brown">Brown</string>
+    <string name="color_grey">Grey</string>
+    <string name="color_white">White</string>
+    <string name="color_Dusty_yellow">Dusty Yellow</string>
+    <string name="color_mustard_yellow">Mustard Yellow</string>
+    <string name="category_colors">Colores</string>
+
+</resources>

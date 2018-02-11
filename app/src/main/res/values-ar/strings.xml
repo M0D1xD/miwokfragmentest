@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Miwok</string>
+    <string name="category_phrases">عبارات</string>
+    <string name="category_colors">الألوان</string>
+    <string name="category_family">أفراد العائلة</string>
+    <string name="category_numbers">الأرقام</string>
+    <string name="number_one">واحد</string>
+    <string name="number_two">اثنان</string>
+    <string name="number_three">ثلاثة</string>
+    <string name="number_four">أربعة</string>
+    <string name="number_five">خمسة</string>
+    <string name="nmber_six">ستة</string>
+    <string name="nmber_seven">سبعة</string>
+    <string name="nmber_eight">ثمانية</string>
+    <string name="nmber_nine">تسعة</string>
+    <string name="nmber_ten">عشرة</string>
+    <string name="family_father">أب</string>
+    <string name="family_mother">أم</string>
+    <string name="family_grandfather">جد</string>
+    <string name="family_son">جدة</string>
+    <string name="family_sister">اخت</string>
+    <string name="family_daughter">بنت</string>
+    <string name="family_YoungBrother">الأخ الأصغر</string>
+    <string name="family_YoungSister">الأخت الصغرى</string>
+    <string name="family_oldersister">الأخت الكبرى</string>
+    <string name="family_oldbrother">الأخ الأكبر</string>
+    <string name="phrases_come_here">تعال إلى هنا</string>
+    <string name="phrases_Lets_go">هيا لنذهب</string>
+    <string name="phrases_I_m_coming">انا قادم</string>
+    <string name="phrase_whats_your_name">ما اسمك</string>
+    <string name="phrase_my_name_is">إسمي</string>
+    <string name="phrase_how_are_you_feeling">كيف تشعر ؟</string>
+    <string name="phrase_i_am_feeling_good">انا اشعر بخير</string>
+    <string name="phrase_are_you_coming">هل ستأتي؟</string>
+    <string name="phrase_yes_i_am_coming">أجل , انا قادم</string>
+    <string name="phrase_where_are_you_going">إلى أين تذهب ؟</string>
+    <string name="color_red">أحمر</string>
+    <string name="color_green">أخضر</string>
+    <string name="color_black">اسود</string>
+    <string name="color_brown">بني</string>
+    <string name="color_grey">رمادي</string>
+    <string name="color_white">أبيض</string>
+    <string name="color_Dusty_yellow">اصفر داكن</string>
+    <string name="color_mustard_yellow">اصفر خردلي</string>
+    <string name="family_grandmother">جدة</string>
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Miwok</string>
+    <string name="category_phrases">фразы</string>
+    <string name="category_colors">цвета</string>
+    <string name="category_family">семьи</string>
+    <string name="category_numbers">чисел</string>
+    <string name="number_one">Один</string>
+    <string name="number_two">два</string>
+    <string name="number_three">три</string>
+    <string name="number_four">"четыре"</string>
+    <string name="number_five">"пять"</string>
+    <string name="nmber_six">"шесть"</string>
+    <string name="nmber_seven">"семь"</string>
+    <string name="nmber_eight">"восемь"</string>
+    <string name="nmber_nine">"девять"</string>
+    <string name="nmber_ten">"десять"</string>
+    <string name="family_mother">"Мать"</string>
+    <string name="family_father">"Отец"</string>
+    <string name="family_daughter">"Дочь"</string>
+    <string name="family_grandfather">"Дедушка "</string>
+    <string name="family_son">"Сын "</string>
+    <string name="family_sister">Сестра</string>
+    <string name="color_red">кра́сный</string>
+    <string name="color_black">чёрный</string>
+    <string name="color_brown">кори́чневый</string>
+    <string name="color_grey">се́рый</string>
+    <string name="color_white">бе́лый</string>
+    <string name="family_grandmother">бабушка</string>
+    <string name="color_mustard_yellow">"Горчица желтая "</string>
+    <string name="color_Dusty_yellow">Пыльный желтый</string>
+    <string name="color_green">зелёный</string>
+    <string name="phrase_where_are_you_going">Куда ты идешь?</string>
+    <string name="phrase_yes_i_am_coming">Да, я иду.</string>
+    <string name="phrase_are_you_coming">Ты идешь?</string>
+    <string name="phrase_i_am_feeling_good">Мне хорошо.</string>
+    <string name="phrase_how_are_you_feeling">Как себя чувствуешь?</string>
+    <string name="phrase_my_name_is">Меня зовут.</string>
+    <string name="phrase_whats_your_name">Как вас зовут?</string>
+    <string name="phrases_I_m_coming">Я иду.</string>
+    <string name="phrases_Lets_go">Поехали</string>
+    <string name="phrases_come_here">Иди сюда.</string>
+    <string name="family_oldbrother">Старший брат</string>
+    <string name="family_oldersister">Старшая сестра</string>
+    <string name="family_YoungSister">Младшая сестра</string>
+    <string name="family_YoungBrother">Младший брат</string>
+</resources>
